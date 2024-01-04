@@ -1,0 +1,70 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+
+}
+
+.Cuerpos{
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1000px;
+    display: flex;
+    margin: 5px;
+    
+    
+}
+.ParteI{
+    flex-basis: 30%;
+    padding: 20px;
+    background-color: #34495E;
+}
+h1{
+    text-align: center;
+    color: #E5E8E8;
+}
+img {
+    width: 250px;
+    height: 250px;
+    
+
+}
+
+.ParteI h2{
+    text-align: center;
+    background-color:rgba(0, 0, 255, 0.226);
+    color: #E5E8E8;
+    
+}
+
+.ParteI li{
+    list-style: none;
+    font-size: 18px;
+    
+}
+
+.Hab li{
+    list-style: circle;
+}
+.ParteD{
+    background-color: #E5E8E8 ;
+    flex-basis: 70%;
+    padding: 20px;
+}
+
+.ParteD .exp{
+    padding-left: 10px;
+}
+.Experiencia p {
+    font-size: 18px;
+}
+.Estudios p{
+    margin: 10px;
+}
+.Otros p {
+    margin: 10px;
+}
+p{
+    font-size: 18px;
+}
+
+
