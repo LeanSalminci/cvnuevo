@@ -5,8 +5,9 @@
 }
 
 .Cuerpos{
-    width: 210mm;
-    height: 297mm;
+    width: 100%;
+    max-width: 1000px;
+    max-height: 1050px;
     display: flex;
     margin: 5px;
     
